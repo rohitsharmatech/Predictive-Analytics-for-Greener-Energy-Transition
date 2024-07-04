@@ -1,0 +1,13 @@
+Code Files:
+Regression Results - Results from regression of production. 
+Consumption and Production - Time series forecast for consumption and production.
+Country Comparison - Comparing with Denmark. Descriptive analysis.
+Wind Energy - Forecasting for future wind energy using time series
+Analysis - Descriptive Analysis
+
+Data:
+Sunshine - Hours of sunshine in Shannon Airport data
+Data_Mining_Data - Data for production, imports and exports
+WindFarm - Wind farm installation data
+Demand - Data of consumption in Ireland
+
